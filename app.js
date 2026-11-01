@@ -13,6 +13,8 @@ tabbar.innerHTML = tabs
   .join("");
 
 async function route() {
+  // Si la app ya estaba abierta, el Atajo solo cambia la dirección: leemos los datos igual.
+  captureFromUrl();
   const path = location.hash.replace(/^#/, "").split("?")[0] || "/";
   const mod = modules.find((m) => path === m.route || path.startsWith(m.route + "/"));
 
@@ -31,7 +33,6 @@ async function route() {
   view.focus({ preventScroll: true });
 }
 
-captureFromUrl();
 window.addEventListener("hashchange", route);
 route();
 

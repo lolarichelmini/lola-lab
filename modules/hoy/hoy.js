@@ -52,6 +52,7 @@ export function captureFromUrl() {
   if (text === null) return;
   try { localStorage.setItem(KEY, JSON.stringify(parse(text))); } catch { /* sin almacenamiento */ }
   history.replaceState(null, "", location.pathname + location.search + "#/");
+  return true;
 }
 
 function load() {
