@@ -93,9 +93,9 @@ export function renderHoy() {
   return `
     <ul class="group">${events}</ul>
     <ul class="group" style="margin-top: var(--space-3)">${reminders}</ul>
-    ${!data.events.length && !data.reminders.length && data.raw ? `
+    ${!data.events.length && !data.reminders.length ? `
       <div class="empty-note" style="margin-top: var(--space-3)">
         <strong>Diagnóstico: esto llegó desde el Atajo</strong>
-        <code style="display:block;white-space:pre-wrap;word-break:break-all;font-size:13px;margin-top:6px">${esc(data.raw)}</code>
+        <code style="display:block;white-space:pre-wrap;word-break:break-all;font-size:13px;margin-top:6px">${data.raw ? esc(data.raw) : "(llegó vacío)"}</code>
       </div>` : ""}`;
 }

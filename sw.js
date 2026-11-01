@@ -1,7 +1,7 @@
 // Service worker: guarda la estructura de la app para que abra rápido y sin conexión.
-// El contenido (episodios) se busca siempre primero en la red.
+// Todo se busca primero en la red; la caché es el respaldo sin conexión.
 
-const VERSION = "lola-lab-v9";
+const VERSION = "lola-lab-v10";
 const SHELL = [
   "./",
   "index.html",
@@ -32,31 +32,19 @@ self.addEventListener("activate", (e) => {
 });
 
 self.addEventListener("fetch", (e) => {
-  const url = new URL(e.request.url);
   if (e.request.method !== "GET") return;
+  const url = new URL(e.request.url);
+  if (url.origin !== location.origin) return;
 
-  // Contenido: red primero, caché como respaldo.
-  if (url.pathname.includes("/content/")) {
-    e.respondWith(
-      fetch(e.request)
-        .then((res) => {
-          const copy = res.clone();
-          caches.open(VERSION).then((c) => c.put(e.request, copy));
-          return res;
-        })
-        .catch(() => caches.match(e.request))
-    );
-    return;
-  }
-
-  // Estructura: caché primero.
+  // Red primero para todo: así siempre se ve la última versión publicada.
+  // Si no hay conexión, se usa la copia guardada.
   e.respondWith(
-    caches.match(e.request).then((hit) => hit || fetch(e.request).then((res) => {
-      if (url.origin === location.origin) {
+    fetch(e.request, { cache: "no-cache" })
+      .then((res) => {
         const copy = res.clone();
         caches.open(VERSION).then((c) => c.put(e.request, copy));
-      }
-      return res;
-    }))
+        return res;
+      })
+      .catch(() => caches.match(e.request, { ignoreSearch: true }))
   );
 });
