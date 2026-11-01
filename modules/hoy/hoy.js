@@ -17,6 +17,17 @@ const todayISO = () => {
 
 const esc = (s) => s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
+// Pasa "3:30 PM", "3:30 p. m." o "15:30" a "15:30".
+function to24(t) {
+  const m = t.match(/^(\d{1,2})[:.](\d{2})\s*([ap])?/i);
+  if (!m) return t;
+  let h = Number(m[1]);
+  const ap = (m[3] || "").toLowerCase();
+  if (ap === "p" && h < 12) h += 12;
+  if (ap === "a" && h === 12) h = 0;
+  return `${String(h).padStart(2, "0")}:${m[2]}`;
+}
+
 function parse(text) {
   const events = [];
   const reminders = [];
@@ -24,10 +35,10 @@ function parse(text) {
     const [type, a = "", b = ""] = raw.split("|").map((p) => p.trim());
     // Los eventos de todo el día llegan del Atajo con hora 0:00.
     const allDay = !a || /^0?0[:.]00(\s*a\.?\s*m\.?)?$/i.test(a) || /^12[:.]00\s*a\.?\s*m\.?$/i.test(a);
-    if (type === "E" && b) events.push({ time: allDay ? "" : a, title: b });
+    if (type === "E" && b) events.push({ time: allDay ? "" : to24(a), title: b });
     else if (type === "R" && a) reminders.push({ title: a });
   }
-  events.sort((x, y) => (x.time || "").localeCompare(y.time || "", "es", { numeric: true }));
+  events.sort((x, y) => (x.time || "").localeCompare(y.time || ""));
   return { date: todayISO(), events, reminders };
 }
 
