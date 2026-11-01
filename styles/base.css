@@ -162,3 +162,5 @@ main:focus, main:focus-visible { outline: none; }
 }
 .tab svg { width: 26px; height: 26px; }
 .tab[aria-current="page"] { background: var(--glass-selected); color: var(--accent); }
+
+.hoy-updated { color: var(--ink-soft); font-size: var(--step--1); margin: var(--space-2) 0 0 var(--space-4); }
