@@ -1,7 +1,7 @@
 // Service worker: guarda la estructura de la app para que abra rápido y sin conexión.
 // El contenido (episodios) se busca siempre primero en la red.
 
-const VERSION = "lola-lab-v6";
+const VERSION = "lola-lab-v7";
 const SHELL = [
   "./",
   "index.html",

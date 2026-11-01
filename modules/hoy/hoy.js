@@ -22,10 +22,12 @@ function parse(text) {
   const reminders = [];
   for (const raw of text.split(/\r?\n/)) {
     const [type, a = "", b = ""] = raw.split("|").map((p) => p.trim());
-    if (type === "E" && b) events.push({ time: a, title: b });
+    // Los eventos de todo el día llegan del Atajo con hora 0:00.
+    const allDay = !a || /^0?0[:.]00(\s*a\.?\s*m\.?)?$/i.test(a) || /^12[:.]00\s*a\.?\s*m\.?$/i.test(a);
+    if (type === "E" && b) events.push({ time: allDay ? "" : a, title: b });
     else if (type === "R" && a) reminders.push({ title: a });
   }
-  events.sort((x, y) => (x.time || "00:00").localeCompare(y.time || "00:00"));
+  events.sort((x, y) => (x.time || "").localeCompare(y.time || "", "es", { numeric: true }));
   return { date: todayISO(), events, reminders };
 }
 
