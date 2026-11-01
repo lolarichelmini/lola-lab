@@ -1,0 +1,76 @@
+/* Design tokens: la única fuente de colores, tipografía y espacios.
+   Dirección: estilo iOS (app Atajos). Fondo gris claro, títulos grandes,
+   mosaicos con degradé de color, listas agrupadas, barra inferior flotante.
+   Todos los módulos usan estas variables. */
+
+:root {
+  --paper: #F2F2F7;
+  --surface: #FFFFFF;
+  --ink: #000000;
+  --ink-soft: #8E8E93;
+  --line: #E5E5EA;
+  --accent: #007AFF;
+  --glass: rgba(255, 255, 255, 0.72);
+  --glass-line: rgba(255, 255, 255, 0.9);
+  --glass-selected: rgba(120, 120, 128, 0.16);
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+
+  /* Degradés de los mosaicos, uno por módulo. */
+  --grad-coral: linear-gradient(160deg, #F4A285 0%, #EE7F5E 100%);
+  --grad-blue: linear-gradient(160deg, #6A86E2 0%, #4560C4 100%);
+  --grad-yellow: linear-gradient(160deg, #F7D756 0%, #F0B93A 100%);
+  --grad-pink: linear-gradient(160deg, #F2A6E6 0%, #E07FCB 100%);
+  --grad-purple: linear-gradient(160deg, #A07BE0 0%, #7B4FC4 100%);
+
+  /* Helvetica: nativa en iPhone y Mac. En Android y Windows se ve Arial. */
+  --font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  --step--1: 0.8125rem;
+  --step-0: 1.0625rem;
+  --step-1: 1.25rem;
+  --step-2: 1.625rem;
+  --step-3: 2.125rem;
+  --step-4: 2.75rem;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+
+  --radius-tile: 26px;
+  --radius-group: 22px;
+  --radius-pill: 999px;
+  --gutter: 20px;
+  --maxw: 720px;
+  --tabbar-space: 112px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #000000;
+    --surface: #1C1C1E;
+    --ink: #FFFFFF;
+    --ink-soft: #8E8E93;
+    --line: #38383A;
+    --accent: #0A84FF;
+    --glass: rgba(44, 44, 46, 0.72);
+    --glass-line: rgba(255, 255, 255, 0.12);
+    --glass-selected: rgba(255, 255, 255, 0.14);
+    --shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #000000;
+  --surface: #1C1C1E;
+  --ink: #FFFFFF;
+  --ink-soft: #8E8E93;
+  --line: #38383A;
+  --accent: #0A84FF;
+  --glass: rgba(44, 44, 46, 0.72);
+  --glass-line: rgba(255, 255, 255, 0.12);
+  --glass-selected: rgba(255, 255, 255, 0.14);
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
