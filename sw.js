@@ -1,7 +1,7 @@
 // Service worker: guarda la estructura de la app para que abra rápido y sin conexión.
 // Todo se busca primero en la red; la caché es el respaldo sin conexión.
 
-const VERSION = "lola-lab-v13";
+const VERSION = "lola-lab-v14";
 const SHELL = [
   "./",
   "index.html",
