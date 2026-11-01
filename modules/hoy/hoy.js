@@ -39,7 +39,7 @@ function parse(text) {
     else if (type === "R" && a) reminders.push({ title: a });
   }
   events.sort((x, y) => (x.time || "").localeCompare(y.time || ""));
-  return { date: todayISO(), events, reminders, raw: text.slice(0, 400) };
+  return { date: todayISO(), events, reminders };
 }
 
 // Si la app se abrió desde el Atajo, guarda los datos y limpia la dirección.
@@ -92,10 +92,5 @@ export function renderHoy() {
 
   return `
     <ul class="group">${events}</ul>
-    <ul class="group" style="margin-top: var(--space-3)">${reminders}</ul>
-    ${!data.events.length && !data.reminders.length ? `
-      <div class="empty-note" style="margin-top: var(--space-3)">
-        <strong>Diagnóstico: esto llegó desde el Atajo</strong>
-        <code style="display:block;white-space:pre-wrap;word-break:break-all;font-size:13px;margin-top:6px">${data.raw ? esc(data.raw) : "(llegó vacío)"}</code>
-      </div>` : ""}`;
+    <ul class="group" style="margin-top: var(--space-3)">${reminders}</ul>`;
 }
