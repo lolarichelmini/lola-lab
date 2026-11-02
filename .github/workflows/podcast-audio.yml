@@ -1,0 +1,36 @@
+name: Audio del podcast
+
+# Se ejecuta cuando cambia un guion o la lista de episodios, o a mano desde la pestaña Actions.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/podcast/scripts/**"
+      - "content/podcast/episodes.json"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: podcast-audio
+  cancel-in-progress: false
+
+jobs:
+  audio:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install edge-tts==7.3.1
+      - run: python tools/podcast_audio.py
+      - name: Guardar audio en el repositorio
+        run: |
+          git config user.name "lola-lab-bot"
+          git config user.email "lola-lab-bot@users.noreply.github.com"
+          git add content/podcast
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "Podcast: audio generado"
+          git push

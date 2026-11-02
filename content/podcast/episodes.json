@@ -1,3 +1,22 @@
 {
-  "episodes": []
+  "voice": "es-AR-ElenaNeural",
+  "episodes": [
+    {
+      "id": "ep-001",
+      "number": 1,
+      "date": "2026-11-02",
+      "title": "Contar lo mismo en otro género",
+      "summary": "CyberMonday con espías, Navidad hecha a mano, IA que elige diseño humano y anuncios que se reescriben solos. Técnica: cambio de género.",
+      "script": "content/podcast/scripts/ep-001.txt",
+      "audio": null,
+      "duration": null,
+      "sources": [
+        { "title": "CyberMonday 2026: Dentsu Creative y CACE convierten a los consumidores en detectives", "url": "https://www.totalmedios.com/nota/65737/cybermonday-2026-dentsu-creative-y-cace-convierten-a-los-consumidores-en-detectives-en-su-nueva-campana" },
+        { "title": "The Marketing Campaigns, Insights and Industry News This Week (OUAI, Prada)", "url": "https://becauseofmarketing.substack.com/p/the-marketing-campaigns-insights-296" },
+        { "title": "Why do AI platforms want humans to design their branding? — Creative Bloq", "url": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding" },
+        { "title": "The Branding Journal #23 (Interbrand 2026, Visa)", "url": "https://thebrandingupdate.substack.com/p/brand-equity-a-closer-look-at-love" },
+        { "title": "Monday Knight Briefing, 2 Nov 2026 (ChatGPT Ads, Performance Max)", "url": "https://brandperformance.substack.com/p/monday-knight-briefing-2nd-nov-2026" }
+      ]
+    }
+  ]
 }
