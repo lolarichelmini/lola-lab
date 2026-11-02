@@ -7,6 +7,7 @@
       "date": "2026-11-02",
       "title": "Contar lo mismo en otro género",
       "summary": "CyberMonday con espías, Navidad hecha a mano, IA que elige diseño humano y anuncios que se reescriben solos. Técnica: cambio de género.",
+      "technique": "Cambio de género",
       "script": "content/podcast/scripts/ep-001.txt",
       "audio": "content/podcast/audio/ep-001.mp3",
       "duration": 474.5,
