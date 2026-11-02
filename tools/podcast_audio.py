@@ -8,9 +8,8 @@ Se ejecuta en GitHub Actions (ver .github/workflows/podcast-audio.yml).
 import asyncio
 import json
 import pathlib
-import subprocess
-
 import edge_tts
+from mutagen.mp3 import MP3
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "content/podcast/episodes.json"
@@ -25,11 +24,7 @@ SAMPLE_VOICES = ["es-AR-ElenaNeural", "es-AR-TomasNeural"]
 
 
 def duration(path: pathlib.Path) -> float:
-    out = subprocess.run(
-        ["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(path)],
-        capture_output=True, text=True, check=True,
-    )
-    return round(float(out.stdout.strip()), 1)
+    return round(MP3(str(path)).info.length, 1)
 
 
 async def speak(text: str, voice: str, out: pathlib.Path) -> None:
