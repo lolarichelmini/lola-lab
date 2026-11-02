@@ -1,3 +1,93 @@
 {
-  "trends": []
+  "week": "2026-11-01",
+  "report": "Pinterest Predicts 2026",
+  "trends": [
+    {
+      "id": "broches",
+      "title": "Broches por todos lados",
+      "summary": "El broche vuelve, y ya no se queda solo en la solapa.",
+      "body": "Pinterest detecta que el broche deja de ser un accesorio de otra época y pasa a ser el detalle que personaliza cualquier look. Vintage, heredados o con formas divertidas, aparecen en sacos, corbatas y hasta zapatos.",
+      "howto": [
+        "Uno grande en la solapa de un blazer liso.",
+        "Varios chicos agrupados en el cuello de una camisa.",
+        "En la tira de una cartera o sujetando un pañuelo."
+      ],
+      "palette": [
+        { "name": "Oro viejo", "hex": "#B8893C" },
+        { "name": "Perla", "hex": "#EDE6DA" },
+        { "name": "Esmeralda", "hex": "#2E6B57" },
+        { "name": "Negro", "hex": "#1C1C1E" }
+      ],
+      "stats": [
+        { "label": "Búsquedas de \"brooch aesthetic\"", "value": "+110 %" },
+        { "label": "Accesorios maximalistas", "value": "+105 %" },
+        { "label": "Broches para traje de hombre", "value": "+90 %" }
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1680320389818-eb3db09e7b51",
+        "alt": "Mano sosteniendo un broche dorado con forma de cabeza de león",
+        "credit": "COPPERTIST WU",
+        "creditUrl": "https://unsplash.com/@coppertistwu"
+      }
+    },
+    {
+      "id": "azul-hielo",
+      "title": "Azul hielo",
+      "summary": "Un celeste helado que pasa de la ropa a la casa.",
+      "body": "Un azul pálido y frío que Pinterest ve crecer en vestidos, accesorios, interiores y hasta en bebidas. Funciona como alternativa al blanco y a los pasteles de siempre, y combina con plateados y grises.",
+      "howto": [
+        "Una prenda azul hielo con accesorios plateados.",
+        "Look monocromo con gris claro o blanco roto.",
+        "Un solo toque, como un tejido o un pantalón, sobre una base neutra."
+      ],
+      "palette": [
+        { "name": "Azul hielo", "hex": "#CFE3F0" },
+        { "name": "Glaciar", "hex": "#A9C8DE" },
+        { "name": "Plata", "hex": "#C9CDD2" },
+        { "name": "Blanco roto", "hex": "#F4F2EE" }
+      ],
+      "stats": [
+        { "label": "Búsquedas de \"icy blue\"", "value": "+50 %" },
+        { "label": "Vestidos de novia azul hielo", "value": "+55 %" },
+        { "label": "Estética glaciar", "value": "+35 %" }
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1762341478385-0b86e6dfe726",
+        "alt": "Mujer con vestido celeste en una escalera",
+        "credit": "Zulfugar Karimov",
+        "creditUrl": "https://unsplash.com/@zulfugarkarimov"
+      }
+    },
+    {
+      "id": "glamoratti",
+      "title": "Glamoratti",
+      "summary": "Vuelven los hombros marcados y el dorado sin miedo.",
+      "body": "El exceso de los ochenta regresa de la mano de la generación Z y los millennials: trajes con hombros esculpidos, cuellos altos como base y joyas doradas grandes y pesadas. Pinterest lo define como la vuelta de la década de la decadencia.",
+      "howto": [
+        "Blazer con hombreras sobre una polera.",
+        "Una sola joya dorada grande como protagonista.",
+        "Una prenda con textura: terciopelo o piel sintética."
+      ],
+      "palette": [
+        { "name": "Dorado", "hex": "#C9A13B" },
+        { "name": "Negro", "hex": "#111111" },
+        { "name": "Bordó", "hex": "#6E1E2E" },
+        { "name": "Camel", "hex": "#B48A5A" }
+      ],
+      "stats": [
+        { "label": "Quién la impulsa", "value": "Gen Z y millennials" }
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1585711715631-1e6bf224f092",
+        "alt": "Collar de cadena dorada sobre una tela gris",
+        "credit": "Vishnu Prasad",
+        "creditUrl": "https://unsplash.com/@sir_vp"
+      }
+    }
+  ],
+  "sources": [
+    { "title": "Pinterest Predicts 2026 — Pinterest Newsroom", "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/" },
+    { "title": "Poetcore, opera aesthetic and brooches — FashionUnited", "url": "https://fashionunited.com/news/fashion/poetcore-opera-aesthetic-and-brooches-key-style-predictions-from-pinterest-for-2026/2025121069575" },
+    { "title": "Pinterest Just Declared 3 Fashion Trends on the Verge of Going Viral in 2026 — Who What Wear", "url": "https://www.whowhatwear.com/fashion/trends/pinterest-fashion-trend-predictions-2026" }
+  ]
 }
