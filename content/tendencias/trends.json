@@ -1,93 +1,167 @@
 {
-  "week": "2026-11-01",
-  "report": "Pinterest Predicts 2026",
+  "week": "2026-11-08",
+  "report": "Pinterest Summer Trend Report 2026",
   "trends": [
     {
-      "id": "broches",
-      "title": "Broches por todos lados",
-      "summary": "El broche vuelve, y ya no se queda solo en la solapa.",
-      "body": "Pinterest detecta que el broche deja de ser un accesorio de otra época y pasa a ser el detalle que personaliza cualquier look. Vintage, heredados o con formas divertidas, aparecen en sacos, corbatas y hasta zapatos.",
+      "id": "estilo-marinero",
+      "title": "Estilo marinero",
+      "summary": "Rayas, náuticos y capas livianas con aire de día en el agua.",
+      "body": "Pinterest la llama Sailorcore: remeras y camisas a rayas, gorras de marinero y mocasines náuticos con espíritu preppy de puerto. Crece porque es fácil de armar con básicos y se lee al instante como verano, ideal para la temporada que arranca acá.",
       "howto": [
-        "Uno grande en la solapa de un blazer liso.",
-        "Varios chicos agrupados en el cuello de una camisa.",
-        "En la tira de una cartera o sujetando un pañuelo."
+        "Remera a rayas azules y blancas con un pantalón blanco o beige.",
+        "Mocasines náuticos con bermuda de lino para un finde de río o playa.",
+        "Un sweater tejido atado a los hombros sobre una camisa rayada para la noche."
       ],
       "palette": [
-        { "name": "Oro viejo", "hex": "#B8893C" },
-        { "name": "Perla", "hex": "#EDE6DA" },
-        { "name": "Esmeralda", "hex": "#2E6B57" },
-        { "name": "Negro", "hex": "#1C1C1E" }
+        {
+          "name": "Azul marino",
+          "hex": "#1F2F4F"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#F7F7F4"
+        },
+        {
+          "name": "Rojo bandera",
+          "hex": "#B3262E"
+        },
+        {
+          "name": "Arena",
+          "hex": "#D9C7A3"
+        }
       ],
       "stats": [
-        { "label": "Búsquedas de \"brooch aesthetic\"", "value": "+110 %" },
-        { "label": "Accesorios maximalistas", "value": "+105 %" },
-        { "label": "Broches para traje de hombre", "value": "+90 %" }
+        {
+          "label": "Búsquedas de \"stripe shirt outfits women\"",
+          "value": "+1.962 %"
+        },
+        {
+          "label": "\"Vintage sailor aesthetic\"",
+          "value": "+385 %"
+        },
+        {
+          "label": "\"Boat shoes outfit\"",
+          "value": "+142 %"
+        }
       ],
       "image": {
-        "src": "https://images.unsplash.com/photo-1680320389818-eb3db09e7b51",
-        "alt": "Mano sosteniendo un broche dorado con forma de cabeza de león",
-        "credit": "COPPERTIST WU",
-        "creditUrl": "https://unsplash.com/@coppertistwu"
+        "src": "https://images.unsplash.com/photo-1628078720690-2e35921026f6",
+        "alt": "Mujer con camisa a rayas blancas y azules mirando el cielo",
+        "credit": "Luana Niemann",
+        "creditUrl": "https://unsplash.com/@luana_niemann"
       }
     },
     {
-      "id": "azul-hielo",
-      "title": "Azul hielo",
-      "summary": "Un celeste helado que pasa de la ropa a la casa.",
-      "body": "Un azul pálido y frío que Pinterest ve crecer en vestidos, accesorios, interiores y hasta en bebidas. Funciona como alternativa al blanco y a los pasteles de siempre, y combina con plateados y grises.",
+      "id": "cargo-de-verano",
+      "title": "Cargo de verano",
+      "summary": "Los bolsillos grandes vuelven como uniforme de calor.",
+      "body": "Dentro de la tendencia deportiva relajada, Pinterest marca el regreso de pantalones, jeans y shorts cargo de calce amplio. Suman por lo práctico y porque combinan bien con remeras ajustadas y zapatillas, en proporciones bien pensadas.",
       "howto": [
-        "Una prenda azul hielo con accesorios plateados.",
-        "Look monocromo con gris claro o blanco roto.",
-        "Un solo toque, como un tejido o un pantalón, sobre una base neutra."
+        "Pantalón cargo de tela liviana con un top corto o una musculosa al cuerpo.",
+        "Short cargo holgado con camisa abierta y sandalias.",
+        "Jean cargo con una remera blanca y zapatillas para la oficina informal."
       ],
       "palette": [
-        { "name": "Azul hielo", "hex": "#CFE3F0" },
-        { "name": "Glaciar", "hex": "#A9C8DE" },
-        { "name": "Plata", "hex": "#C9CDD2" },
-        { "name": "Blanco roto", "hex": "#F4F2EE" }
+        {
+          "name": "Verde oliva",
+          "hex": "#6B6B3A"
+        },
+        {
+          "name": "Caqui",
+          "hex": "#B8A47A"
+        },
+        {
+          "name": "Denim",
+          "hex": "#4A6A8A"
+        },
+        {
+          "name": "Blanco hueso",
+          "hex": "#EFEAE0"
+        }
       ],
       "stats": [
-        { "label": "Búsquedas de \"icy blue\"", "value": "+50 %" },
-        { "label": "Vestidos de novia azul hielo", "value": "+55 %" },
-        { "label": "Estética glaciar", "value": "+35 %" }
+        {
+          "label": "\"Cargo jeans outfit ideas\"",
+          "value": "+366 %"
+        },
+        {
+          "label": "\"Cargo pants outfits women summer\"",
+          "value": "+363 %"
+        },
+        {
+          "label": "\"Baggy cargo shorts outfit\"",
+          "value": "+177 %"
+        }
       ],
       "image": {
-        "src": "https://images.unsplash.com/photo-1762341478385-0b86e6dfe726",
-        "alt": "Mujer con vestido celeste en una escalera",
-        "credit": "Zulfugar Karimov",
-        "creditUrl": "https://unsplash.com/@zulfugarkarimov"
+        "src": "https://images.unsplash.com/photo-1644955734676-9f24f7d4f929",
+        "alt": "Mujer con top corto y pantalón cargo",
+        "credit": "Jamaal Cooks",
+        "creditUrl": "https://unsplash.com/@heyjamaal"
       }
     },
     {
-      "id": "glamoratti",
-      "title": "Glamoratti",
-      "summary": "Vuelven los hombros marcados y el dorado sin miedo.",
-      "body": "El exceso de los ochenta regresa de la mano de la generación Z y los millennials: trajes con hombros esculpidos, cuellos altos como base y joyas doradas grandes y pesadas. Pinterest lo define como la vuelta de la década de la decadencia.",
+      "id": "zapatillas-hibridas",
+      "title": "Zapatillas híbridas",
+      "summary": "Zapatillas que se cruzan con chatitas, guillerminas y mocasines.",
+      "body": "Pinterest ve que las zapatillas pasan de pensarse para el deporte a pensarse para el look, con modelos híbridos que mezclan la comodidad deportiva con formas de calzado clásico. Así aparecen las sneaker-ballerinas, las sneaker Mary Jane y las zapatillas tipo papá.",
       "howto": [
-        "Blazer con hombreras sobre una polera.",
-        "Una sola joya dorada grande como protagonista.",
-        "Una prenda con textura: terciopelo o piel sintética."
+        "Zapatillas tipo chatita con pollera midi o vestido liviano.",
+        "Sneaker Mary Jane con pantalón recto tobillero y medias a la vista.",
+        "Zapatillas robustas tipo papá para cortar un look de sastrería."
       ],
       "palette": [
-        { "name": "Dorado", "hex": "#C9A13B" },
-        { "name": "Negro", "hex": "#111111" },
-        { "name": "Bordó", "hex": "#6E1E2E" },
-        { "name": "Camel", "hex": "#B48A5A" }
+        {
+          "name": "Blanco tiza",
+          "hex": "#F2F0EB"
+        },
+        {
+          "name": "Gris perla",
+          "hex": "#BFC0BE"
+        },
+        {
+          "name": "Rojo cereza",
+          "hex": "#9E1B32"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1A1A1A"
+        }
       ],
       "stats": [
-        { "label": "Quién la impulsa", "value": "Gen Z y millennials" }
+        {
+          "label": "\"Dad sneakers\"",
+          "value": "+906 %"
+        },
+        {
+          "label": "\"Sneaker flats outfit\"",
+          "value": "+432 %"
+        },
+        {
+          "label": "\"Sneaker mary janes outfit\"",
+          "value": "+267 %"
+        }
       ],
       "image": {
-        "src": "https://images.unsplash.com/photo-1585711715631-1e6bf224f092",
-        "alt": "Collar de cadena dorada sobre una tela gris",
-        "credit": "Vishnu Prasad",
-        "creditUrl": "https://unsplash.com/@sir_vp"
+        "src": "https://images.unsplash.com/photo-1544441892-794166f1e3be",
+        "alt": "Par de zapatillas blancas de caña baja",
+        "credit": "Mnz",
+        "creditUrl": "https://unsplash.com/@mnzoutfits"
       }
     }
   ],
   "sources": [
-    { "title": "Pinterest Predicts 2026 — Pinterest Newsroom", "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/" },
-    { "title": "Poetcore, opera aesthetic and brooches — FashionUnited", "url": "https://fashionunited.com/news/fashion/poetcore-opera-aesthetic-and-brooches-key-style-predictions-from-pinterest-for-2026/2025121069575" },
-    { "title": "Pinterest Just Declared 3 Fashion Trends on the Verge of Going Viral in 2026 — Who What Wear", "url": "https://www.whowhatwear.com/fashion/trends/pinterest-fashion-trend-predictions-2026" }
+    {
+      "title": "Pinterest Summer 2026 Trend Report: From sports to street style — Pinterest Newsroom",
+      "url": "https://newsroom.pinterest.com/news/summer-trend-report-2026/"
+    },
+    {
+      "title": "Pinterest trend report: sport to shape summer 2026 far beyond the playing field — FashionUnited",
+      "url": "https://fashionunited.uk/news/fashion/pinterest-trend-report-sport-to-shape-summer-2026-far-beyond-the-playing-field/2026052688265"
+    },
+    {
+      "title": "Pinterest releases 2026 summer fashion report — Social Media Today",
+      "url": "https://www.socialmediatoday.com/news/pinterest-releases-2026-summer-fashion-report/821303/"
+    }
   ]
 }
