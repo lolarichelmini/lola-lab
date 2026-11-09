@@ -1,0 +1,47 @@
+Hola, Lola. Bienvenida a Lunes Creativo. Es lunes 9 de noviembre y este es el episodio número dos. Como siempre, te traigo cuatro cosas que pasaron en el mundo creativo esta semana, una técnica para destrabar ideas y un ejercicio cortito para hacer antes del viernes.
+
+Arrancamos.
+
+Primera novedad, y es bien de acá. Seguramente viste el video: unos hermanos de González Catán le regalaron a su mamá una heladera Philco por el Día de la Madre y la llevaron caminando por la calle. Lo filmaron y el video se hizo viral.
+
+Lo interesante es lo que hizo la marca. Junto con la agencia Agens, Philco publicó un llamado en redes para encontrar a la familia. Cuando la encontraron, les devolvieron el valor de la heladera, les mandaron más productos y convirtieron la historia en una campaña que se lanzó el 4 de noviembre. Se llama "Realfluencers". La idea da vuelta el modelo de siempre: en lugar de regalarle un producto a un influencer para que hable de él, la marca fue a buscar a una familia que ya la había elegido por su cuenta, y la recompensó por un contenido que ya existía.
+
+¿Qué te podés llevar a la agencia? Que a veces la mejor idea no hay que inventarla, hay que detectarla a tiempo. Y eso es gestión: si no está claro quién escucha redes para cada cliente y quién puede aprobar una acción en pocos días, ahí hay algo para ordenar.
+
+Segunda novedad: arrancó fuerte la temporada de avisos navideños en el Reino Unido, que es casi un campeonato de publicidad. Ya salieron más de veinte.
+
+De todos, te quiero contar uno que no vende nada. Shelter, una organización que trabaja por la vivienda, lanzó una película de dos minutos hecha por la agencia Meanwhile. Empieza como cualquier aviso de Navidad: una mamá y su hija cuentan los días con entusiasmo, como esperando algo lindo. Pero de a poco la película muestra que viven en un alojamiento temporario, chico y gris. Y el gran día que esperan no es Navidad: es la mudanza a una casa propia, con ayuda de la organización. Según el análisis de Shelter sobre datos oficiales, en Inglaterra hay más de ciento setenta y siete mil chicos viviendo en alojamientos temporarios.
+
+Lo brillante es que usa la estructura del aviso navideño, con cuenta regresiva y final feliz, pero le cambia el sentido.
+
+Y un dato de la misma temporada: Levi's sacó un aviso en plastilina animada, cuadro por cuadro, con un yeti que se calma gracias a un suéter rojo. La marca aclaró que no usó inteligencia artificial para filmarlo, y que cada segundo de animación llevó unas cuatro horas de rodaje. Contar el proceso se está volviendo parte del mensaje.
+
+Tercera novedad, sobre branding. La consultora de marca Koto publicó un informe sobre los autos eléctricos con una pregunta incómoda: ¿no se están pareciendo todas las marcas? La tecnología y las pantallas convergen, y cuesta distinguir una de otra.
+
+Algunos números. Según el informe, el noventa y seis por ciento de quienes manejan un eléctrico volvería a elegir uno, pero solo la mitad, más o menos, se queda con la misma marca. Y la cantidad de modelos pasó de unos trescientos setenta en 2020 a casi mil en 2025. Además, Koto evaluó diez marcas y vio que vender mucho no es tener una marca fuerte: Rivian es novena en ventas pero primera en marca, y Volkswagen es tercera en ventas y última en marca.
+
+¿Por qué te importa, aunque no tengas un cliente automotriz? Porque esto pasa en casi todas las categorías: bancos, billeteras digitales, delivery, telcos. Cuando el producto se iguala, lo que diferencia es la marca. Es un buen argumento para defender, frente a un cliente, el tiempo de estrategia que muchas veces se recorta del cronograma.
+
+Cuarta novedad, y es de plataformas. Meta frenó la actualización de sus términos para negocios y anunciantes, que iba a entrar en vigencia el 20 de noviembre. Incluía reglas sobre anuncios hechos o editados con inteligencia artificial, y una cláusula muy discutida para que Meta pudiera recorrer los sitios web de las empresas y usar ese contenido en sus productos.
+
+Hubo presión de varios lados: un tribunal de Noruega suspendió los términos de forma temporal, y la autoridad de competencia del Reino Unido abrió una investigación. Por ahora siguen vigentes los términos anteriores, y no hay fecha nueva.
+
+¿Qué hacés con esto? Primero, si había algo planificado alrededor del 20 de noviembre, se puede reprogramar. Segundo, aunque la regla quedó en pausa, el tema sigue en pie: las herramientas de Meta pueden editar anuncios con inteligencia artificial. Antes de que salgan las piezas de Black Friday, conviene revisar qué ajustes automáticos tienen activados las cuentas de tus clientes y dejar por escrito quién aprueba los cambios que hace la máquina.
+
+Bueno. Vamos con la técnica de la semana.
+
+Si mirás a Philco y a Shelter, hicieron lo mismo: tomaron una regla de su categoría y la dieron vuelta. Philco invirtió el modelo del influencer: no le dio el producto a alguien para que lo muestre, sino que fue a buscar a quien ya lo había mostrado. Shelter invirtió el aviso navideño: la misma estructura, pero el regalo no es un regalo. La técnica se llama "inversión de supuestos".
+
+Funciona así. Primero, hacés una lista de las reglas que todo el mundo da por sentadas en una categoría o en un brief. Por ejemplo: "los avisos de bancos muestran gente sonriendo", "el influencer recibe el producto gratis", "la promo se comunica con el precio grande". Después, das vuelta cada una. ¿Y si el banco mostrara a alguien enojado? ¿Y si el cliente le pagara al consumidor? ¿Y si la promo no mostrara el precio? La mayoría de las inversiones no van a servir. Pero alguna te va a abrir una puerta que no habrías visto.
+
+Como PM, esta técnica tiene un uso muy concreto: sirve para ordenar reuniones. En una kickoff, antes de pedir ideas, pedile al equipo cinco minutos para listar los supuestos del brief en un pizarrón. Eso solo ya saca a la luz cosas que nadie había dicho. Después elegís dos o tres y proponés darlas vuelta. No le pedís a nadie que sea genial, solo que contradiga una frase. Eso baja la presión y suma a gente que en general no habla.
+
+Vamos con el ejercicio de la semana. Es corto.
+
+Elegí un cliente o un proyecto que tengas en curso. Escribí cinco cosas que todas las marcas de esa categoría hacen igual, cinco reglas no escritas. Tomate diez minutos. Después, al lado de cada una, escribí su versión invertida, por absurda que parezca.
+
+Cuando termines, marcá una sola inversión que te dé curiosidad. No tiene que ser buena, tiene que ser distinta. Y llevala a la próxima reunión con el equipo creativo como pregunta: "¿y si hiciéramos justo lo contrario de lo que hace la categoría?".
+
+Eso fue todo por hoy. Repasemos. Philco y Agens convirtieron un video viral de una familia en una campaña que da vuelta el modelo del influencer. Shelter usó la estructura del aviso navideño para hablar de vivienda, y Levi's hizo del trabajo artesanal parte del mensaje. Koto muestra que, cuando los productos se parecen, lo que diferencia es la marca. Y Meta puso en pausa sus nuevos términos, pero conviene revisar igual los ajustes automáticos de los anuncios.
+
+Que tengas una muy buena semana, Lola. Nos escuchamos el lunes que viene.

@@ -33,6 +33,43 @@
           "url": "https://brandperformance.substack.com/p/monday-knight-briefing-2nd-nov-2026"
         }
       ]
+    },
+    {
+      "id": "ep-002",
+      "number": 2,
+      "date": "2026-11-09",
+      "title": "Dar vuelta las reglas",
+      "summary": "Philco y sus Realfluencers, la Navidad de Shelter y Levi's, marcas eléctricas que se parecen y la pausa de los términos de Meta. Técnica: inversión de supuestos.",
+      "technique": "Inversión de supuestos",
+      "script": "content/podcast/scripts/ep-002.txt",
+      "audio": null,
+      "duration": null,
+      "sources": [
+        {
+          "title": "“Realfluencers”: Philco y Agens convierten en campaña una historia viral — TotalMedios",
+          "url": "https://www.totalmedios.com/nota/65770/realfluencers-philco-y-agens-convierten-en-campana-una-historia-viral"
+        },
+        {
+          "title": "Shelter's Christmas ad counts down to a safe home, not presents — ContentGrip",
+          "url": "https://www.contentgrip.com/shelter-christmas-safe-home/"
+        },
+        {
+          "title": "Levi's claymation holiday campaign celebrates handmade craft amid AI bloat — Marketing Dive",
+          "url": "https://marketingdive.com/news/levis-claymation-holiday-campaign-celebrates-handmade-craft-amid-ai-bloat/873496"
+        },
+        {
+          "title": "Christmas adverts 2026: all UK ads so far — Ad Ranking",
+          "url": "https://adranking.co.uk/rankings/christmas-adverts-2026/"
+        },
+        {
+          "title": "Is it a problem that all electric car brands look the same? (Koto) — Creative Boom",
+          "url": "https://creativeboom.com/insight/is-it-a-problem-that-all-electric-car-brands-all-look-the-same"
+        },
+        {
+          "title": "Meta pauses new Commercial Terms due 20 November 2026 — Relevant Audience",
+          "url": "https://www.relevantaudience.com/meta/meta-pauses-commercial-terms-20-november-2026/"
+        }
+      ]
     }
   ]
 }
