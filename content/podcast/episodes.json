@@ -42,8 +42,8 @@
       "summary": "Philco y sus Realfluencers, la Navidad de Shelter y Levi's, marcas eléctricas que se parecen y la pausa de los términos de Meta. Técnica: inversión de supuestos.",
       "technique": "Inversión de supuestos",
       "script": "content/podcast/scripts/ep-002.txt",
-      "audio": null,
-      "duration": null,
+      "audio": "content/podcast/audio/ep-002.mp3",
+      "duration": 500.0,
       "sources": [
         {
           "title": "“Realfluencers”: Philco y Agens convierten en campaña una historia viral — TotalMedios",
