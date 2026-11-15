@@ -1,0 +1,167 @@
+{
+  "week": "2026-11-08",
+  "report": "Pinterest Summer Trend Report 2026",
+  "trends": [
+    {
+      "id": "estilo-marinero",
+      "title": "Estilo marinero",
+      "summary": "Rayas, náuticos y capas livianas con aire de día en el agua.",
+      "body": "Pinterest la llama Sailorcore: remeras y camisas a rayas, gorras de marinero y mocasines náuticos con espíritu preppy de puerto. Crece porque es fácil de armar con básicos y se lee al instante como verano, ideal para la temporada que arranca acá.",
+      "howto": [
+        "Remera a rayas azules y blancas con un pantalón blanco o beige.",
+        "Mocasines náuticos con bermuda de lino para un finde de río o playa.",
+        "Un sweater tejido atado a los hombros sobre una camisa rayada para la noche."
+      ],
+      "palette": [
+        {
+          "name": "Azul marino",
+          "hex": "#1F2F4F"
+        },
+        {
+          "name": "Blanco",
+          "hex": "#F7F7F4"
+        },
+        {
+          "name": "Rojo bandera",
+          "hex": "#B3262E"
+        },
+        {
+          "name": "Arena",
+          "hex": "#D9C7A3"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Búsquedas de \"stripe shirt outfits women\"",
+          "value": "+1.962 %"
+        },
+        {
+          "label": "\"Vintage sailor aesthetic\"",
+          "value": "+385 %"
+        },
+        {
+          "label": "\"Boat shoes outfit\"",
+          "value": "+142 %"
+        }
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1628078720690-2e35921026f6",
+        "alt": "Mujer con camisa a rayas blancas y azules mirando el cielo",
+        "credit": "Luana Niemann",
+        "creditUrl": "https://unsplash.com/@luana_niemann"
+      }
+    },
+    {
+      "id": "cargo-de-verano",
+      "title": "Cargo de verano",
+      "summary": "Los bolsillos grandes vuelven como uniforme de calor.",
+      "body": "Dentro de la tendencia deportiva relajada, Pinterest marca el regreso de pantalones, jeans y shorts cargo de calce amplio. Suman por lo práctico y porque combinan bien con remeras ajustadas y zapatillas, en proporciones bien pensadas.",
+      "howto": [
+        "Pantalón cargo de tela liviana con un top corto o una musculosa al cuerpo.",
+        "Short cargo holgado con camisa abierta y sandalias.",
+        "Jean cargo con una remera blanca y zapatillas para la oficina informal."
+      ],
+      "palette": [
+        {
+          "name": "Verde oliva",
+          "hex": "#6B6B3A"
+        },
+        {
+          "name": "Caqui",
+          "hex": "#B8A47A"
+        },
+        {
+          "name": "Denim",
+          "hex": "#4A6A8A"
+        },
+        {
+          "name": "Blanco hueso",
+          "hex": "#EFEAE0"
+        }
+      ],
+      "stats": [
+        {
+          "label": "\"Cargo jeans outfit ideas\"",
+          "value": "+366 %"
+        },
+        {
+          "label": "\"Cargo pants outfits women summer\"",
+          "value": "+363 %"
+        },
+        {
+          "label": "\"Baggy cargo shorts outfit\"",
+          "value": "+177 %"
+        }
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1644955734676-9f24f7d4f929",
+        "alt": "Mujer con top corto y pantalón cargo",
+        "credit": "Jamaal Cooks",
+        "creditUrl": "https://unsplash.com/@heyjamaal"
+      }
+    },
+    {
+      "id": "zapatillas-hibridas",
+      "title": "Zapatillas híbridas",
+      "summary": "Zapatillas que se cruzan con chatitas, guillerminas y mocasines.",
+      "body": "Pinterest ve que las zapatillas pasan de pensarse para el deporte a pensarse para el look, con modelos híbridos que mezclan la comodidad deportiva con formas de calzado clásico. Así aparecen las sneaker-ballerinas, las sneaker Mary Jane y las zapatillas tipo papá.",
+      "howto": [
+        "Zapatillas tipo chatita con pollera midi o vestido liviano.",
+        "Sneaker Mary Jane con pantalón recto tobillero y medias a la vista.",
+        "Zapatillas robustas tipo papá para cortar un look de sastrería."
+      ],
+      "palette": [
+        {
+          "name": "Blanco tiza",
+          "hex": "#F2F0EB"
+        },
+        {
+          "name": "Gris perla",
+          "hex": "#BFC0BE"
+        },
+        {
+          "name": "Rojo cereza",
+          "hex": "#9E1B32"
+        },
+        {
+          "name": "Negro",
+          "hex": "#1A1A1A"
+        }
+      ],
+      "stats": [
+        {
+          "label": "\"Dad sneakers\"",
+          "value": "+906 %"
+        },
+        {
+          "label": "\"Sneaker flats outfit\"",
+          "value": "+432 %"
+        },
+        {
+          "label": "\"Sneaker mary janes outfit\"",
+          "value": "+267 %"
+        }
+      ],
+      "image": {
+        "src": "https://images.unsplash.com/photo-1544441892-794166f1e3be",
+        "alt": "Par de zapatillas blancas de caña baja",
+        "credit": "Mnz",
+        "creditUrl": "https://unsplash.com/@mnzoutfits"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "Pinterest Summer 2026 Trend Report: From sports to street style — Pinterest Newsroom",
+      "url": "https://newsroom.pinterest.com/news/summer-trend-report-2026/"
+    },
+    {
+      "title": "Pinterest trend report: sport to shape summer 2026 far beyond the playing field — FashionUnited",
+      "url": "https://fashionunited.uk/news/fashion/pinterest-trend-report-sport-to-shape-summer-2026-far-beyond-the-playing-field/2026052688265"
+    },
+    {
+      "title": "Pinterest releases 2026 summer fashion report — Social Media Today",
+      "url": "https://www.socialmediatoday.com/news/pinterest-releases-2026-summer-fashion-report/821303/"
+    }
+  ]
+}

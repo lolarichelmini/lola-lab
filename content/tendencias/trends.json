@@ -1,167 +1,95 @@
 {
-  "week": "2026-11-08",
-  "report": "Pinterest Summer Trend Report 2026",
+  "week": "2026-11-15",
+  "report": "Pinterest Summer Trend Report 2026 y Pinterest Predicts 2026",
   "trends": [
     {
-      "id": "estilo-marinero",
-      "title": "Estilo marinero",
-      "summary": "Rayas, náuticos y capas livianas con aire de día en el agua.",
-      "body": "Pinterest la llama Sailorcore: remeras y camisas a rayas, gorras de marinero y mocasines náuticos con espíritu preppy de puerto. Crece porque es fácil de armar con básicos y se lee al instante como verano, ideal para la temporada que arranca acá.",
+      "id": "temporada-capri",
+      "title": "Temporada capri",
+      "summary": "El pantalón capri vuelve como alternativa prolija al short.",
+      "body": "Pinterest detecta que el capri regresa como opción más elegante que el short para los días de calor, en versiones fluidas, holgadas o de jean. Crece porque refresca igual que un short pero se puede llevar a la oficina o a una cena sin cambiarse.",
       "howto": [
-        "Remera a rayas azules y blancas con un pantalón blanco o beige.",
-        "Mocasines náuticos con bermuda de lino para un finde de río o playa.",
-        "Un sweater tejido atado a los hombros sobre una camisa rayada para la noche."
+        "Capri de lino fluido con una camisa blanca abierta y sandalias chatas.",
+        "Capri de jean holgado con una remera ajustada y zapatillas tipo chatita.",
+        "Capri negro al cuerpo con blazer liviano y mocasines para la oficina."
       ],
       "palette": [
-        {
-          "name": "Azul marino",
-          "hex": "#1F2F4F"
-        },
-        {
-          "name": "Blanco",
-          "hex": "#F7F7F4"
-        },
-        {
-          "name": "Rojo bandera",
-          "hex": "#B3262E"
-        },
-        {
-          "name": "Arena",
-          "hex": "#D9C7A3"
-        }
+        {"name": "Blanco lino", "hex": "#F4EFE6"},
+        {"name": "Negro", "hex": "#1C1C1C"},
+        {"name": "Denim claro", "hex": "#8FA9C4"},
+        {"name": "Coral", "hex": "#E2725B"}
       ],
       "stats": [
-        {
-          "label": "Búsquedas de \"stripe shirt outfits women\"",
-          "value": "+1.962 %"
-        },
-        {
-          "label": "\"Vintage sailor aesthetic\"",
-          "value": "+385 %"
-        },
-        {
-          "label": "\"Boat shoes outfit\"",
-          "value": "+142 %"
-        }
+        {"label": "\"Flowy capri pants outfit\"", "value": "+527 %"},
+        {"label": "\"Baggy capri pants outfits\"", "value": "+226 %"},
+        {"label": "\"Capri pants outfits summer\"", "value": "+185 %"}
       ],
       "image": {
-        "src": "https://images.unsplash.com/photo-1628078720690-2e35921026f6",
-        "alt": "Mujer con camisa a rayas blancas y azules mirando el cielo",
-        "credit": "Luana Niemann",
-        "creditUrl": "https://unsplash.com/@luana_niemann"
+        "src": "https://images.unsplash.com/photo-1505373118248-d8e4e99e667d",
+        "alt": "Mujer con campera y pantalón capri posando en una escalera",
+        "credit": "Bin Thieu",
+        "creditUrl": "https://unsplash.com/@binthieu"
       }
     },
     {
-      "id": "cargo-de-verano",
-      "title": "Cargo de verano",
-      "summary": "Los bolsillos grandes vuelven como uniforme de calor.",
-      "body": "Dentro de la tendencia deportiva relajada, Pinterest marca el regreso de pantalones, jeans y shorts cargo de calce amplio. Suman por lo práctico y porque combinan bien con remeras ajustadas y zapatillas, en proporciones bien pensadas.",
+      "id": "panuelos-al-detalle",
+      "title": "Pañuelos al detalle",
+      "summary": "Bandanas y pañuelos chiquitos que se atan en la cartera, el cinturón o el cuello.",
+      "body": "En su informe de verano, Pinterest marca el auge de los pañuelos como toque final: bandanas, pañuelos de seda italianos y versiones mini que se anudan en lugares inesperados. Suma porque es una forma barata de cambiar un look y darle color sin comprar ropa nueva.",
       "howto": [
-        "Pantalón cargo de tela liviana con un top corto o una musculosa al cuerpo.",
-        "Short cargo holgado con camisa abierta y sandalias.",
-        "Jean cargo con una remera blanca y zapatillas para la oficina informal."
+        "Un pañuelo de seda atado a la manija de la cartera de todos los días.",
+        "Una bandana pasada por las presillas del jean en lugar de cinturón.",
+        "Un pañuelo chiquito anudado al cuello con una camisa abierta o una musculosa."
       ],
       "palette": [
-        {
-          "name": "Verde oliva",
-          "hex": "#6B6B3A"
-        },
-        {
-          "name": "Caqui",
-          "hex": "#B8A47A"
-        },
-        {
-          "name": "Denim",
-          "hex": "#4A6A8A"
-        },
-        {
-          "name": "Blanco hueso",
-          "hex": "#EFEAE0"
-        }
+        {"name": "Rojo bandana", "hex": "#B22A2E"},
+        {"name": "Azul tinta", "hex": "#24365C"},
+        {"name": "Mostaza", "hex": "#D4A23A"},
+        {"name": "Crema", "hex": "#F3E9D2"}
       ],
       "stats": [
-        {
-          "label": "\"Cargo jeans outfit ideas\"",
-          "value": "+366 %"
-        },
-        {
-          "label": "\"Cargo pants outfits women summer\"",
-          "value": "+363 %"
-        },
-        {
-          "label": "\"Baggy cargo shorts outfit\"",
-          "value": "+177 %"
-        }
+        {"label": "\"Bandana scarf\"", "value": "+424 %"},
+        {"label": "\"Scarf on bags\"", "value": "+217 %"},
+        {"label": "\"Belt scarf\"", "value": "+140 %"}
       ],
       "image": {
-        "src": "https://images.unsplash.com/photo-1644955734676-9f24f7d4f929",
-        "alt": "Mujer con top corto y pantalón cargo",
-        "credit": "Jamaal Cooks",
-        "creditUrl": "https://unsplash.com/@heyjamaal"
+        "src": "https://images.unsplash.com/photo-1608793733118-ee3f16002251",
+        "alt": "Telas estampadas de colores en exhibición",
+        "credit": "Dad hotel",
+        "creditUrl": "https://unsplash.com/@dadhotel"
       }
     },
     {
-      "id": "zapatillas-hibridas",
-      "title": "Zapatillas híbridas",
-      "summary": "Zapatillas que se cruzan con chatitas, guillerminas y mocasines.",
-      "body": "Pinterest ve que las zapatillas pasan de pensarse para el deporte a pensarse para el look, con modelos híbridos que mezclan la comodidad deportiva con formas de calzado clásico. Así aparecen las sneaker-ballerinas, las sneaker Mary Jane y las zapatillas tipo papá.",
+      "id": "codigo-caqui",
+      "title": "Código caqui",
+      "summary": "Estética de exploradora: caqui, bolsillos, bermudas y lino.",
+      "body": "Pinterest Predicts 2026 la llama Khaki Coded: un look inspirado en viajeros y exploradores, con bermudas caqui, chalecos utilitarios con muchos bolsillos y pantalones con pinzas. Crece de la mano de Gen Z y millennials, y en nuestro verano encaja perfecto con el lino y los tonos tierra.",
       "howto": [
-        "Zapatillas tipo chatita con pollera midi o vestido liviano.",
-        "Sneaker Mary Jane con pantalón recto tobillero y medias a la vista.",
-        "Zapatillas robustas tipo papá para cortar un look de sastrería."
+        "Bermuda caqui larga con una camisa de lino marrón y sandalias de cuero.",
+        "Pantalón con pinzas color arena con una remera blanca y un chaleco utilitario.",
+        "Camisa utilitaria con bolsillos sobre un vestido liviano, usada como abrigo."
       ],
       "palette": [
-        {
-          "name": "Blanco tiza",
-          "hex": "#F2F0EB"
-        },
-        {
-          "name": "Gris perla",
-          "hex": "#BFC0BE"
-        },
-        {
-          "name": "Rojo cereza",
-          "hex": "#9E1B32"
-        },
-        {
-          "name": "Negro",
-          "hex": "#1A1A1A"
-        }
+        {"name": "Caqui", "hex": "#B5A27A"},
+        {"name": "Marrón tabaco", "hex": "#7A5434"},
+        {"name": "Verde salvia", "hex": "#8A9A78"},
+        {"name": "Arena clara", "hex": "#E6DCC8"}
       ],
       "stats": [
-        {
-          "label": "\"Dad sneakers\"",
-          "value": "+906 %"
-        },
-        {
-          "label": "\"Sneaker flats outfit\"",
-          "value": "+432 %"
-        },
-        {
-          "label": "\"Sneaker mary janes outfit\"",
-          "value": "+267 %"
-        }
+        {"label": "\"Brown linen shirt\"", "value": "+100 %"},
+        {"label": "\"Field jacket outfit men\"", "value": "+65 %"},
+        {"label": "\"Utility shirt\"", "value": "+45 %"}
       ],
       "image": {
-        "src": "https://images.unsplash.com/photo-1544441892-794166f1e3be",
-        "alt": "Par de zapatillas blancas de caña baja",
-        "credit": "Mnz",
-        "creditUrl": "https://unsplash.com/@mnzoutfits"
+        "src": "https://images.unsplash.com/photo-1690221917474-969789923f34",
+        "alt": "Hombre con camisa blanca y pantalón caqui",
+        "credit": "István Szitás",
+        "creditUrl": "https://unsplash.com/@istvanszitas"
       }
     }
   ],
   "sources": [
-    {
-      "title": "Pinterest Summer 2026 Trend Report: From sports to street style — Pinterest Newsroom",
-      "url": "https://newsroom.pinterest.com/news/summer-trend-report-2026/"
-    },
-    {
-      "title": "Pinterest trend report: sport to shape summer 2026 far beyond the playing field — FashionUnited",
-      "url": "https://fashionunited.uk/news/fashion/pinterest-trend-report-sport-to-shape-summer-2026-far-beyond-the-playing-field/2026052688265"
-    },
-    {
-      "title": "Pinterest releases 2026 summer fashion report — Social Media Today",
-      "url": "https://www.socialmediatoday.com/news/pinterest-releases-2026-summer-fashion-report/821303/"
-    }
+    {"title": "Pinterest Summer 2026 Trend Report: From sports to street style — Pinterest Newsroom", "url": "https://newsroom.pinterest.com/news/summer-trend-report-2026/"},
+    {"title": "Pinterest Predicts: Nonconformity, self-preservation, and escapism drive 21 trends for 2026 — Pinterest Newsroom", "url": "https://newsroom.pinterest.com/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"},
+    {"title": "Poetcore, opera aesthetic and brooches: Key style predictions from Pinterest for 2026 — FashionUnited", "url": "https://fashionunited.uk/news/fashion/poetcore-opera-aesthetic-and-brooches-key-style-predictions-from-pinterest-for-2026/2025121085277"}
   ]
 }
