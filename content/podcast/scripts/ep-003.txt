@@ -1,0 +1,53 @@
+Hola, Lola. Bienvenida a Lunes Creativo. Es lunes 16 de noviembre y este es el episodio número tres. Como cada semana, te traigo cuatro cosas que pasaron en el mundo creativo, una técnica para destrabar ideas y un ejercicio cortito para hacer antes del viernes.
+
+Arrancamos.
+
+Primera novedad, y es bien de acá. Tesla confirmó que empieza a operar en Argentina este viernes 20 de noviembre, y lo anunció con un spot filmado en Buenos Aires. El aviso muestra los autos pasando por el Obelisco, el Congreso y las calles de La Boca, con mate, murales y rutas patagónicas. Cierra con un "Hola Argentina" al lado de la bandera y la fecha de lanzamiento.
+
+El desembarco también tiene su lógica de experiencia: un primer espacio de exhibición en el Unicenter, con dos autos, una zona de pruebas de manejo en el estacionamiento y la compra que se cierra online, sin concesionarios.
+
+¿Por qué es interesante? Porque es el manual clásico de una marca global que llega a un mercado nuevo: no se presenta con lo que es, sino con lo que reconoce del lugar.
+
+¿Qué te podés llevar a la agencia? Si tenés un cliente que abre una sucursal, entra a otra provincia o lanza algo nuevo, pensá el lanzamiento como un saludo, no como un catálogo. Y como PM, fijate que el spot, el punto físico y la venta online están conectados por una misma fecha. Esa fecha es el eje del cronograma, y todo lo demás se ordena alrededor.
+
+Segunda novedad: una campaña navideña del Reino Unido que vale la pena mirar. Oxfam lanzó el 9 de noviembre un film de noventa segundos que se llama "The List", la lista, hecho por la agencia Happy Hour.
+
+La historia: Neel, un chico de nueve años, escribe su lista de regalos y la suelta desde un balcón atada a un globo. Los vecinos del barrio cosen, arreglan y compran cosas de segunda mano para armar lo que pide. Y el día de Navidad aparece el giro: Neel le regala todo a una mamá joven y a su hija, que viven al lado. Su lista nunca había sido para él.
+
+Lo interesante es cómo la campaña baja a una acción concreta. Invita a armar una lista de Navidad alternativa en la web de Oxfam y compartirla con familia y amigos, con opciones como una donación, un regalo solidario, libros usados o ropa de segunda mano.
+
+Para la agencia, dos cosas. La restricción como motor: todos los regalos del film están hechos con cosas reparadas o usadas, y esa limitación es justamente lo que vuelve linda la historia. Y el llamado a la acción no es "doná", es "armá tu lista", algo que la gente ya hace en esta época.
+
+Tercera novedad, de tecnología aplicada a la creatividad. El 10 de noviembre fue Adobe MAX, el gran evento anual de Adobe, y vino cargado de inteligencia artificial.
+
+Algunos anuncios que te pueden servir. En Firefly, una herramienta para hacer gráficos que respeten el estilo de una marca, edición de una parte de la imagen sin tocar el resto, y armado automático de videos a partir de clips, imágenes y sonido. También presentaron Builder, una herramienta para prototipar diseños, que por ahora está en beta privada. En Photoshop suman un ajuste de iluminación, y en Premiere, un sistema de corrección de color para profesionales y la posibilidad de borrar objetos en video.
+
+Pero lo más llamativo es otra cosa: Adobe amplió su conexión con asistentes externos, como ChatGPT, Claude o Gemini, para que puedan usar funciones de Photoshop, Illustrator, After Effects o Premiere.
+
+¿Por qué te importa como PM? Porque cambia los tiempos de producción. Tareas como recortar fondos, hacer versiones de una pieza o adaptar formatos se van a acortar. La oportunidad es recalcular dónde se va el tiempo del equipo y mover horas de producción hacia concepto y estrategia. Eso sí: antes de prometerle algo a un cliente, chequeá qué está disponible y qué sigue en beta, porque Adobe no dio fechas para la mayoría.
+
+Cuarta novedad, de plataformas. Twitch, que es de Amazon, anunció dos formatos nuevos para anunciantes. El primero son avisos comprables dentro del stream: la gente puede sumar un producto al carrito de Amazon sin salir de la transmisión. Arrancó en beta para escritorio en Estados Unidos y Canadá, y la idea es expandirlo a otras regiones el año que viene. El segundo son avisos que se pueden saltear, que llegan en beta en diciembre, y que el anunciante paga solo si la persona mira más de treinta segundos, ve el aviso completo o hace clic.
+
+Según los datos que compartió Amazon, en una prueba de Razer el retorno sobre la inversión fue unas dos veces y media mayor, y un tercio de las personas alcanzadas eran nuevas para la marca.
+
+Y un dato de contexto que va de la mano: según el IAB, los presupuestos de marketing con creadores pasaron de unos catorce mil millones de dólares en 2021 a unos cuarenta y cuatro mil millones esperados para 2026.
+
+¿Qué te llevás? Aunque estos formatos todavía no lleguen a Argentina, la tendencia es clara: pagar por atención real y comprar sin salir del contenido. Para la agencia, es un buen momento para ordenar cómo se mide y se contrata a los creadores con los que trabajan tus clientes: qué cuenta como una vista, qué derechos de uso se pactan y quién reporta los resultados.
+
+Vamos con la técnica de la semana.
+
+Volvamos a Oxfam. La historia funciona porque tiene una regla fuerte: los regalos se hacen solo con cosas usadas o arregladas. Esa es la técnica de hoy: la restricción creativa.
+
+Parece contradictorio, pero cuando un equipo tiene libertad total, muchas veces se traba o termina en lo de siempre. Una restricción bien elegida obliga a buscar otros caminos. Puede ser de recursos, como "sin presupuesto de producción". De formato, como "la idea tiene que entrar en cinco palabras". De materiales, como "solo con lo que el cliente ya tiene". O de canal, como "tiene que funcionar sin pantalla".
+
+Como PM, esto te sirve mucho para facilitar reuniones. Cuando un brainstorming se estanca, no pidas más ideas: cambiá las reglas. Proponé rondas cortas, de diez minutos cada una, con una restricción distinta por ronda. Escribí la regla grande en el pizarrón para que todos la vean. Y al final, mirá qué ideas sobreviven si sacás la restricción. Muchas veces la mejor idea nació de la regla más rara.
+
+Ahora, el ejercicio de la semana.
+
+Elegí un brief que tengas abierto. Escribí tres restricciones posibles: una de presupuesto, una de formato y una de materiales. Por ejemplo, "cero pesos de producción", "una sola imagen" y "usando solo contenido que el cliente ya publicó". Tomate quince minutos y anotá al menos una idea para cada restricción.
+
+Después, elegí la que más te sorprenda y llevala a la próxima reunión creativa como ronda de calentamiento.
+
+Eso fue todo por hoy. Repasemos. Tesla llega a Argentina el 20 de noviembre con un spot que saluda con códigos locales y un lanzamiento ordenado alrededor de una fecha. Oxfam convirtió una lista de regalos en un gesto para otros, con regalos hechos de cosas usadas. Adobe sumó inteligencia artificial a sus herramientas y abrió sus programas a asistentes externos. Y Twitch prueba avisos comprables y avisos que se pagan solo con atención real, mientras crece la inversión en creadores.
+
+Que tengas una muy buena semana, Lola. Nos escuchamos el lunes que viene.

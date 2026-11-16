@@ -70,6 +70,43 @@
           "url": "https://www.relevantaudience.com/meta/meta-pauses-commercial-terms-20-november-2026/"
         }
       ]
+    },
+    {
+      "id": "ep-003",
+      "number": 3,
+      "date": "2026-11-16",
+      "title": "Crear con reglas",
+      "summary": "Tesla saluda a la Argentina, la lista de Oxfam, la IA de Adobe MAX y los nuevos avisos de Twitch. Técnica: restricción creativa.",
+      "technique": "Restricción creativa",
+      "script": "content/podcast/scripts/ep-003.txt",
+      "audio": null,
+      "duration": null,
+      "sources": [
+        {
+          "title": "Tesla anuncia su llegada oficial a Argentina con el spot “Hola Argentina” — Roastbrief",
+          "url": "https://roastbrief.com.mx/2026/11/tesla-anuncia-su-llegada-oficial-a-argentina-con-un-impactante-spot-de-hola-argentina/"
+        },
+        {
+          "title": "Tesla llega a Argentina el 20 de noviembre y ya filmó un spot en CABA — iProfesional",
+          "url": "https://www.iprofesional.com/autos/468540-tesla-llega-a-argentina-el-20-de-noviembre-y-ya-filmo-un-spot-en-caba.amp"
+        },
+        {
+          "title": "Oxfam unveils ‘The List’ TV ad — Retail Times",
+          "url": "https://retailtimes.co.uk/oxfam-unveils-the-list-tv-ad-encouraging-the-nation-to-give-a-little-differently-this-festive-season/"
+        },
+        {
+          "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly — TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+        },
+        {
+          "title": "Twitch debuts shoppable, skippable ads — Marketing Dive",
+          "url": "https://www.marketingdive.com/news/twitch-debuts-shoppable-skippable-ads-as-twitchcon-feels-growing-pains/874614/"
+        },
+        {
+          "title": "The Creator Economy’s Next Chapter — IAB",
+          "url": "https://www.iab.com/insights/the-creator-economys-next-chapter/"
+        }
+      ]
     }
   ]
 }
