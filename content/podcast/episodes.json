@@ -79,8 +79,8 @@
       "summary": "Tesla saluda a la Argentina, la lista de Oxfam, la IA de Adobe MAX y los nuevos avisos de Twitch. Técnica: restricción creativa.",
       "technique": "Restricción creativa",
       "script": "content/podcast/scripts/ep-003.txt",
-      "audio": null,
-      "duration": null,
+      "audio": "content/podcast/audio/ep-003.mp3",
+      "duration": 506.5,
       "sources": [
         {
           "title": "Tesla anuncia su llegada oficial a Argentina con el spot “Hola Argentina” — Roastbrief",
